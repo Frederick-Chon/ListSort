@@ -4,7 +4,7 @@ ListSort is a sortable list project that focuses on using HTML's Drag and Drop A
 
 ## Live Demo
 
-Live version hosted [here]()
+Live version hosted [here](https://frederick-chon.github.io/ListSort/)
 
 ## Built Using
 
